@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # tiendajuegos
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# tiendajuegos32bits
+>>>>>>> 31fe19e647902be8be83fa83e9f5ff0cfe1ba202
