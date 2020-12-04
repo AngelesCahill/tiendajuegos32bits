@@ -1,0 +1,1 @@
+# tiendajuegos32bits
